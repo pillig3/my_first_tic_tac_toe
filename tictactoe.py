@@ -1,7 +1,7 @@
 import sys
 if sys.version_info[0] == 2:
     input = raw_input # python 2 compatibility
-print('Welcome to Tic Tac Toe!')
+print('Welcome to Tic-Tac-Toe!')
 print('You are X.\n')
 print('   |   |   ')
 print('   |   |   ')
